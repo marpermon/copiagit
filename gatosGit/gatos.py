@@ -11,3 +11,5 @@ gato2.nombre = "Knight"
 gato2.color = "blanco"
 gato2.edad = 1
 gato2.aniadirlista()
+
+funcionesTarea.printlista()
